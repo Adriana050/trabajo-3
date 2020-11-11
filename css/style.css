@@ -32,10 +32,15 @@ font-family: paloseco;
 
 }
 .btn-round{
-    border-radius: 50px;
+    border-radius: 40px;
 }
 
-
+.dance{
+   margin-top: 60px;
+}
+.dancing{
+    margin-top: -10px;
+ }
 .btn-distance{
    margin-top: 10px;
 }
